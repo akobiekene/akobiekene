@@ -6,6 +6,8 @@
 
 <h2> Certifications</h2>
 
+MSc Cyber Security-In Progress
+
 [Google Cybersecurity Certificate](https://www.credly.com/badges/611526d7-d671-4172-8fbb-da7d3a889268)
 
 [Certified in Cybersecurity (CC)](https://www.credly.com/earner/earned/badge/ef8d4545-f8c8-46e3-b194-489e0c3fc3d0)
