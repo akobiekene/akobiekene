@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://akobiekene.github.io/)
+  - [Ekene The Cybersecurity Professional](https://akobiekene.github.io/)
 
 <h2> Certifications</h2>
 
