@@ -8,11 +8,11 @@
 
 MSc Cyber Security-In Progress
 
-[Google Cybersecurity Certificate](https://www.credly.com/badges/611526d7-d671-4172-8fbb-da7d3a889268)
+[Google Cybersecurity Certificate](https://www.credly.com/badges/611526d7-d671-4172-8fbb-da7d3a889268/public_url)
 
-[Certified in Cybersecurity (CC)](https://www.credly.com/earner/earned/badge/ef8d4545-f8c8-46e3-b194-489e0c3fc3d0)
+[Certified in Cybersecurity (CC)](https://www.credly.com/badges/ef8d4545-f8c8-46e3-b194-489e0c3fc3d0/public_url)
 
-[Microsoft Certified: Azure Fundamentals](https://www.credly.com/earner/earned/badge/2cd537de-a96c-4750-b61c-cff3672a22f7)
+[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/2cd537de-a96c-4750-b61c-cff3672a22f7/public_url)
 
 
 
