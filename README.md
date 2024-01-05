@@ -10,7 +10,7 @@ MSc Cyber Security-In Progress
 
 [Google Cybersecurity Certificate](https://www.credly.com/badges/611526d7-d671-4172-8fbb-da7d3a889268/public_url)
 
-[Six Sigma White Belt Certification](2023)
+[Six Sigma White Belt Certification](https://dashboard.educate360.com/)
 
 [Certified in Cybersecurity (CC)](https://www.credly.com/badges/ef8d4545-f8c8-46e3-b194-489e0c3fc3d0/public_url)
 
