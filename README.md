@@ -14,6 +14,8 @@ MSc Cyber Security-In Progress
 
 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/2cd537de-a96c-4750-b61c-cff3672a22f7/public_url)
 
+[BEng Chemical Engineering](2004)
+
 
 
 <h2> 🤳 Connect with me:</h2>
