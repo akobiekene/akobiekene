@@ -8,7 +8,7 @@
 
 MSc Cyber Security-In Progress
 
-[CompTIA Security+ ce Certification](https://www.credly.com/badges/45e74988-01e8-4115-ae31-18775db0ef07/public_url))
+[CompTIA Security+ ce Certification](https://www.credly.com/badges/45e74988-01e8-4115-ae31-18775db0ef07/public_url)
 
 [Google Cybersecurity Certificate](https://www.credly.com/badges/611526d7-d671-4172-8fbb-da7d3a889268/public_url)
 
